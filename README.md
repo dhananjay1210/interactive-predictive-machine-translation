@@ -1,4 +1,4 @@
-# interactive-predictive-machine-translation
+# Interactive Predictive Neural Machine Translation
 
 The field of interactive prediction of neural machine translation (IPNMT) is defined as a mode of machine translation which allows real-time interaction between the translator and the machine translation system. Often, human translators need to accomplish real-time translations quickly. They also might face issues finding the right words, encounter repetitive words that require translation, and face other challenges such as character limits when typing translations from a language with shorter average sentence lengths to a longer one. The IPNMT can help human translators translate from one language to another more efficiently through word suggestions, suggest the top few relevant words to reduce cognitive load, and provide a diversity of suggestions. Additionally, along with human translators, language learners would also find machine-guided translation useful when interacting with a tool that can provide on-the-fly suggestions. This can help language learners expand their vocabulary and assist them in understanding the language.
  
